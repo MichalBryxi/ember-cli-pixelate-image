@@ -1,17 +1,11 @@
-# Ember-cli-pixelate-image
+# Usage
 
-This README outlines the details of collaborating on this Ember addon.
+{{pixelate-image src="path/to/my/image.jpg" value=50}}
 
 ## Installation
 
-* `git clone` this repository
-* `npm install`
-* `bower install`
+ember addon:install cowboyd/ember-cli-pixelate-image
 
-## Running
-
-* `ember server`
-* Visit your app at http://localhost:4200.
 
 ## Running Tests
 
@@ -21,5 +15,3 @@ This README outlines the details of collaborating on this Ember addon.
 ## Building
 
 * `ember build`
-
-For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).

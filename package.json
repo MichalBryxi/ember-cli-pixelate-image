@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-pixelate-image",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "A sample component that will pixelate an image.",
   "directories": {
     "doc": "doc",
     "test": "tests"
