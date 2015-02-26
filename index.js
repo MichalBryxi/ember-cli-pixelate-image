@@ -6,5 +6,6 @@ module.exports = {
 
   included: function(app) {
     app.import(app.bowerDirectory + '/pixelate/pixelate.js');
+    app.import('vendor/pixelate-image.css');
   }
 };
